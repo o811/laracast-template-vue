@@ -6,7 +6,9 @@
         <img src="./assets/logo.png" width="50" height="50">
         </div>
         <ul>
-          <li></li>
+          <li>
+          button
+          </li>
         </ul>
       </nav>
       <section></section>
